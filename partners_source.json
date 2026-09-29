@@ -1,0 +1,2327 @@
+{
+    "partners": [
+        {
+            "api_urls": [
+                "https://8kru.goulash.tech/api/"
+            ],
+            "title": "8kru"
+        },
+        {
+            "api_urls": [
+                "https://albo.goulash.tech/api/"
+            ],
+            "title": "Albo"
+        },
+        {
+            "api_urls": [
+                "https://arigato.goulash.tech/api/"
+            ],
+            "title": "Arigato"
+        },
+        {
+            "api_urls": [
+                "https://artem.goulash.tech/api/"
+            ],
+            "title": "Artem"
+        },
+        {
+            "api_urls": [
+                "https://ast.goulash.tech/api/"
+            ],
+            "title": "ast"
+        },
+        {
+            "api_urls": [
+                "https://atamansushi.goulash.tech/api/"
+            ],
+            "title": "atamansushi"
+        },
+        {
+            "api_urls": [
+                "https://ayfood.goulash.tech/api/"
+            ],
+            "title": "ayfood"
+        },
+        {
+            "api_urls": [
+                "https://aysun.goulash.tech/api/"
+            ],
+            "title": "aysun"
+        },
+        {
+            "api_urls": [
+                "https://bakirova.goulash.tech/api/"
+            ],
+            "title": "bakirova"
+        },
+        {
+            "api_urls": [
+                "https://barashka.goulash.tech/api/"
+            ],
+            "title": "barashka"
+        },
+        {
+            "api_urls": [
+                "https://batoni.goulash.tech/api/"
+            ],
+            "title": "batoni"
+        },
+        {
+            "api_urls": [
+                "https://beerma.goulash.tech/api/"
+            ],
+            "title": "beerma"
+        },
+        {
+            "api_urls": [
+                "https://bg.goulash.tech/api/"
+            ],
+            "title": "bg"
+        },
+        {
+            "api_urls": [
+                "https://bibipizza.goulash.tech/api/"
+            ],
+            "title": "bibipizza"
+        },
+        {
+            "api_urls": [
+                "https://bbb39.goulash.tech/api/"
+            ],
+            "title": "BIG BOSS BURGER"
+        },
+        {
+            "api_urls": [
+                "https://bigroll.goulash.tech/api/"
+            ],
+            "title": "bigroll"
+        },
+        {
+            "api_urls": [
+                "https://bigrolls.goulash.tech/api/"
+            ],
+            "title": "bigrolls"
+        },
+        {
+            "api_urls": [
+                "https://bizon.goulash.tech/api/"
+            ],
+            "title": "bizon"
+        },
+        {
+            "api_urls": [
+                "https://brava.goulash.tech/api/"
+            ],
+            "title": "brava"
+        },
+        {
+            "api_urls": [
+                "https://buffet.goulash.tech/api/"
+            ],
+            "title": "buffet"
+        },
+        {
+            "api_urls": [
+                "https://burgerych.goulash.tech/api/"
+            ],
+            "title": "burgerych"
+        },
+        {
+            "api_urls": [
+                "https://buriymedved.goulash.tech/api/"
+            ],
+            "title": "buriymedved"
+        },
+        {
+            "api_urls": [
+                "https://busoft.goulash.tech/api/"
+            ],
+            "title": "busoft"
+        },
+        {
+            "api_urls": [
+                "https://cafenf.goulash.tech/api/"
+            ],
+            "title": "cafenf"
+        },
+        {
+            "api_urls": [
+                "https://calorieslab.goulash.tech/api/"
+            ],
+            "title": "calorieslab"
+        },
+        {
+            "api_urls": [
+                "https://charco.goulash.tech/api/"
+            ],
+            "title": "charco"
+        },
+        {
+            "api_urls": [
+                "https://cherniylis.goulash.tech/api/"
+            ],
+            "title": "cherniylis"
+        },
+        {
+            "api_urls": [
+                "https://chicagopizza24ru.goulash.tech/api/"
+            ],
+            "title": "chicagopizza24ru"
+        },
+        {
+            "api_urls": [
+                "https://chili.goulash.tech/api/"
+            ],
+            "title": "chili"
+        },
+        {
+            "api_urls": [
+                "https://chiterpizza.goulash.tech/api/"
+            ],
+            "title": "chiterpizza"
+        },
+        {
+            "api_urls": [
+                "https://cookiedo.goulash.tech/api/"
+            ],
+            "title": "cookiedo"
+        },
+        {
+            "api_urls": [
+                "https://cookies.goulash.tech/api/"
+            ],
+            "title": "cookies"
+        },
+        {
+            "api_urls": [
+                "https://devtest2.lifemart.ru/api/"
+            ],
+            "title": "CourierGT2"
+        },
+        {
+            "api_urls": [
+                "https://devtest3.lifemart.ru"
+            ],
+            "title": "CourierGT3"
+        },
+        {
+            "api_urls": [
+                "https://devtest4.lifemart.ru"
+            ],
+            "title": "CourierGT4"
+        },
+        {
+            "api_urls": [
+                "https://devtest5.lifemart.ru/api/"
+            ],
+            "title": "CourierGT5"
+        },
+        {
+            "api_urls": [
+                "https://devtest6.lifemart.ru/api/"
+            ],
+            "title": "CourierGT6"
+        },
+        {
+            "api_urls": [
+                "https://devtest7.lifemart.ru/api/"
+            ],
+            "title": "CourierGT7"
+        },
+        {
+            "api_urls": [
+                "https://cxfamily.goulash.tech/api/"
+            ],
+            "title": "cxfamily"
+        },
+        {
+            "api_urls": [
+                "https://cybernevodnew.goulash.tech/api/"
+            ],
+            "title": "cybernevodnew"
+        },
+        {
+            "api_urls": [
+                "https://dabl.goulash.tech/api/"
+            ],
+            "title": "dabl"
+        },
+        {
+            "api_urls": [
+                "https://daisushi.goulash.tech/api/"
+            ],
+            "title": "daisushi"
+        },
+        {
+            "api_urls": [
+                "https://dars.goulash.tech/api/"
+            ],
+            "title": "Dars"
+        },
+        {
+            "api_urls": [
+                "https://daypizza.goulash.tech/api/"
+            ],
+            "title": "daypizza"
+        },
+        {
+            "api_urls": [
+                "https://demo.goulash.tech/api/"
+            ],
+            "title": "demo"
+        },
+        {
+            "api_urls": [
+                "https://demoeda.goulash.tech/api/"
+            ],
+            "title": "demoeda"
+        },
+        {
+            "api_urls": [
+                "https://derzkiylosos.goulash.tech/api/"
+            ],
+            "title": "derzkiylosos"
+        },
+        {
+            "api_urls": [
+                "https://dev-su.lifemart.ae/api/"
+            ],
+            "title": "dev-lifemart"
+        },
+        {
+            "api_urls": [
+                "https://devopsmaksim.goulash.tech/api/"
+            ],
+            "title": "devopsmaksim"
+        },
+        {
+            "api_urls": [
+                "https://devopstest.goulash.tech/api/"
+            ],
+            "title": "devopstest"
+        },
+        {
+            "api_urls": [
+                "https://devspace1.lifemart.ru/api/"
+            ],
+            "title": "devspace1devsu"
+        },
+        {
+            "api_urls": [
+                "https://devspace2.lifemart.ru/api/"
+            ],
+            "title": "devspace2devsu"
+        },
+        {
+            "api_urls": [
+                "https://devspace2.eda1.ru/api/"
+            ],
+            "title": "devspace2eda"
+        },
+        {
+            "api_urls": [
+                "https://devspace3.lifemart.ru/api/"
+            ],
+            "title": "devspace3devsu"
+        },
+        {
+            "api_urls": [
+                "https://devspace4.lifemart.ru/api/"
+            ],
+            "title": "devspace4devsu"
+        },
+        {
+            "api_urls": [
+                "https://devspace5.lifemart.ru/api/"
+            ],
+            "title": "devspace5devsu"
+        },
+        {
+            "api_urls": [
+                "https://devspace6.lifemart.ru/api/"
+            ],
+            "title": "devspace6devsu"
+        },
+        {
+            "api_urls": [
+                "https://devspace7.lifemart.ru/api/"
+            ],
+            "title": "devspace7devsu"
+        },
+        {
+            "api_urls": [
+                "https://devspace8.lifemart.ru/api/"
+            ],
+            "title": "devspace8devsu"
+        },
+        {
+            "api_urls": [
+                "https://devtest1.eda1.ru/api/"
+            ],
+            "title": "devtest1eda1"
+        },
+        {
+            "api_urls": [
+                "https://dino.goulash.tech/api/"
+            ],
+            "title": "Dino Pizza"
+        },
+        {
+            "api_urls": [
+                "https://dlosos.goulash.tech/api/"
+            ],
+            "title": "dlosos"
+        },
+        {
+            "api_urls": [
+                "https://donantonio.goulash.tech/api/"
+            ],
+            "title": "donantonio"
+        },
+        {
+            "api_urls": [
+                "https://donatello.goulash.tech/api/"
+            ],
+            "title": "donatello"
+        },
+        {
+            "api_urls": [
+                "https://donroll.goulash.tech/api/"
+            ],
+            "title": "donroll"
+        },
+        {
+            "api_urls": [
+                "https://dostavkapanda.goulash.tech/api/"
+            ],
+            "title": "dostavkapanda"
+        },
+        {
+            "api_urls": [
+                "https://dt.goulash.tech/api/"
+            ],
+            "title": "dt"
+        },
+        {
+            "api_urls": [
+                "https://ecorolls.goulash.tech/api/"
+            ],
+            "title": "Ecorolls"
+        },
+        {
+            "api_urls": [
+                "https://devspace1.eda1.ru/api/"
+            ],
+            "title": "Eda1Dev1"
+        },
+        {
+            "api_urls": [
+                "https://devspace2.eda1.ru/api/"
+            ],
+            "title": "Eda1Dev2"
+        },
+        {
+            "api_urls": [
+                "https://devspace3.eda1.ru/api/"
+            ],
+            "title": "Eda1Dev3"
+        },
+        {
+            "api_urls": [
+                "https://devspace4.eda1.ru/api/"
+            ],
+            "title": "Eda1Dev4"
+        },
+        {
+            "api_urls": [
+                "https://devspace5.eda1.ru/api/"
+            ],
+            "title": "Eda1Dev5"
+        },
+        {
+            "api_urls": [
+                "https://devspace6.eda1.ru/api/"
+            ],
+            "title": "Eda1Dev6"
+        },
+        {
+            "api_urls": [
+                "https://devspace7.eda1.ru/api/"
+            ],
+            "title": "Eda1Dev7"
+        },
+        {
+            "api_urls": [
+                "https://eduard.goulash.tech/api/"
+            ],
+            "title": "eduard"
+        },
+        {
+            "api_urls": [
+                "https://enjoydoner.goulash.tech/api/"
+            ],
+            "title": "EnjoyDoner"
+        },
+        {
+            "api_urls": [
+                "https://eoki.goulash.tech/api/"
+            ],
+            "title": "eoki"
+        },
+        {
+            "api_urls": [
+                "https://eshme.goulash.tech/api/"
+            ],
+            "title": "eshme"
+        },
+        {
+            "api_urls": [
+                "https://expressushi.goulash.tech/api/"
+            ],
+            "title": "expressushi"
+        },
+        {
+            "api_urls": [
+                "https://ezhka.goulash.tech/api/"
+            ],
+            "title": "ezhka"
+        },
+        {
+            "api_urls": [
+                "https://filka.goulash.tech/api/"
+            ],
+            "title": "filka"
+        },
+        {
+            "api_urls": [
+                "https://fishfresh.goulash.tech/api/"
+            ],
+            "title": "fishfresh"
+        },
+        {
+            "api_urls": [
+                "https://fishi.goulash.tech/api/"
+            ],
+            "title": "Fishi"
+        },
+        {
+            "api_urls": [
+                "https://fishman.goulash.tech/api/"
+            ],
+            "title": "Fishman"
+        },
+        {
+            "api_urls": [
+                "https://fishsushi.goulash.tech/api/"
+            ],
+            "title": "fishsushi"
+        },
+        {
+            "api_urls": [
+                "https://food.goulash.tech/api/"
+            ],
+            "title": "food"
+        },
+        {
+            "api_urls": [
+                "https://foodGarden.goulash.tech/api/"
+            ],
+            "title": "FoodGarden"
+        },
+        {
+            "api_urls": [
+                "https://garrisan.goulash.tech/api/"
+            ],
+            "title": "GARRiSAN"
+        },
+        {
+            "api_urls": [
+                "https://gaus.goulash.tech/api/"
+            ],
+            "title": "gaus"
+        },
+        {
+            "api_urls": [
+                "https://gimmerolls.goulash.tech/api/"
+            ],
+            "title": "gimmerolls"
+        },
+        {
+            "api_urls": [
+                "https://ginkosushi.goulash.tech/api/"
+            ],
+            "title": "ginkosushi"
+        },
+        {
+            "api_urls": [
+                "https://goodfood.goulash.tech/api/"
+            ],
+            "title": "goodfood"
+        },
+        {
+            "api_urls": [
+                "https://greenbar.goulash.tech/api/"
+            ],
+            "title": "greenbar"
+        },
+        {
+            "api_urls": [
+                "https://gsupport.goulash.tech/api/"
+            ],
+            "title": "gsupport"
+        },
+        {
+            "api_urls": [
+                "https://gtdemo.goulash.tech/api/"
+            ],
+            "title": "gtdemo"
+        },
+        {
+            "api_urls": [
+                "https://gusto.goulash.tech/api/"
+            ],
+            "title": "gusto"
+        },
+        {
+            "api_urls": [
+                "https://hit.goulash.tech/api/"
+            ],
+            "title": "hit"
+        },
+        {
+            "api_urls": [
+                "https://hochurolls.goulash.tech/api/"
+            ],
+            "title": "hochurolls"
+        },
+        {
+            "api_urls": [
+                "https://hotdogger.goulash.tech/api/"
+            ],
+            "title": "hotdogger"
+        },
+        {
+            "api_urls": [
+                "https://igh.goulash.tech/api/"
+            ],
+            "title": "igh"
+        },
+        {
+            "api_urls": [
+                "https://ihtus.goulash.tech/api/"
+            ],
+            "title": "ihtus"
+        },
+        {
+            "api_urls": [
+                "https://imperyasushi.goulash.tech/api/"
+            ],
+            "title": "imperyasushi"
+        },
+        {
+            "api_urls": [
+                "https://instinktkrevetki.goulash.tech/api/"
+            ],
+            "title": "instinktkrevetki"
+        },
+        {
+            "api_urls": [
+                "https://ivanjapan.goulash.tech/api/"
+            ],
+            "title": "ivanjapan"
+        },
+        {
+            "api_urls": [
+                "https://jishi.goulash.tech/api/"
+            ],
+            "title": "jishi"
+        },
+        {
+            "api_urls": [
+                "https://k8s-auto-devtest-ref.goulash.tech/api/"
+            ],
+            "title": "k8s-auto-devtest-ref"
+        },
+        {
+            "api_urls": [
+                "https://k8s-auto-devtest1.goulash.tech/api/"
+            ],
+            "title": "k8s-auto-devtest1"
+        },
+        {
+            "api_urls": [
+                "https://k8s-auto-devtest1-mobile.goulash.tech/api/"
+            ],
+            "title": "k8s-auto-devtest1-mobile"
+        },
+        {
+            "api_urls": [
+                "https://k8s-devtest-ref.goulash.tech/api/"
+            ],
+            "title": "k8s-devtest-ref"
+        },
+        {
+            "api_urls": [
+                "https://k8s-devtest1.goulash.tech/api/"
+            ],
+            "title": "k8s-devtest1"
+        },
+        {
+            "api_urls": [
+                "https://k8s-devtest10.goulash.tech/api/"
+            ],
+            "title": "k8s-devtest10"
+        },
+        {
+            "api_urls": [
+                "https://k8s-devtest2.goulash.tech/api/"
+            ],
+            "title": "k8s-devtest2"
+        },
+        {
+            "api_urls": [
+                "https://k8s-devtest3.goulash.tech/api/"
+            ],
+            "title": "k8s-devtest3"
+        },
+        {
+            "api_urls": [
+                "https://k8s-devtest4.goulash.tech/api/"
+            ],
+            "title": "k8s-devtest4"
+        },
+        {
+            "api_urls": [
+                "https://k8s-devtest5.goulash.tech/api/"
+            ],
+            "title": "k8s-devtest5"
+        },
+        {
+            "api_urls": [
+                "https://k8s-devtest6.goulash.tech/api/"
+            ],
+            "title": "k8s-devtest6"
+        },
+        {
+            "api_urls": [
+                "https://k8s-devtest7.goulash.tech/api/"
+            ],
+            "title": "k8s-devtest7"
+        },
+        {
+            "api_urls": [
+                "https://k8s-devtest8.goulash.tech/api/"
+            ],
+            "title": "k8s-devtest8"
+        },
+        {
+            "api_urls": [
+                "https://k8s-devtest9.goulash.tech/api/"
+            ],
+            "title": "k8s-devtest9"
+        },
+        {
+            "api_urls": [
+                "https://kaktus.goulash.tech/api/"
+            ],
+            "title": "kaktus"
+        },
+        {
+            "api_urls": [
+                "https://kamchatkaryadom.goulash.tech/api/"
+            ],
+            "title": "kamchatkaryadom"
+        },
+        {
+            "api_urls": [
+                "https://kamikadze.goulash.tech/api/"
+            ],
+            "title": "kamikadze"
+        },
+        {
+            "api_urls": [
+                "https://kampai.goulash.tech/api/"
+            ],
+            "title": "kampai"
+        },
+        {
+            "api_urls": [
+                "https://kangaroo.goulash.tech/api/"
+            ],
+            "title": "Kangaroo"
+        },
+        {
+            "api_urls": [
+                "https://kashevar.goulash.tech/api/"
+            ],
+            "title": "kashevar"
+        },
+        {
+            "api_urls": [
+                "https://katana59.goulash.tech/api/"
+            ],
+            "title": "katana59"
+        },
+        {
+            "api_urls": [
+                "https://kesha.goulash.tech/api/"
+            ],
+            "title": "kesha"
+        },
+        {
+            "api_urls": [
+                "https://khaki.goulash.tech/api/"
+            ],
+            "title": "khaki"
+        },
+        {
+            "api_urls": [
+                "https://kidzi.goulash.tech/api/"
+            ],
+            "title": "KIDZI"
+        },
+        {
+            "api_urls": [
+                "https://kingkong.goulash.tech/api/"
+            ],
+            "title": "kingkong"
+        },
+        {
+            "api_urls": [
+                "https://kingrolls.goulash.tech/api/"
+            ],
+            "title": "kingrolls"
+        },
+        {
+            "api_urls": [
+                "https://kinzazarest.goulash.tech/api/"
+            ],
+            "title": "kinzazarest"
+        },
+        {
+            "api_urls": [
+                "https://kirin.goulash.tech/api/"
+            ],
+            "title": "Kirin"
+        },
+        {
+            "api_urls": [
+                "https://kostrof.goulash.tech/api/"
+            ],
+            "title": "kostrof"
+        },
+        {
+            "api_urls": [
+                "https://kru8.goulash.tech/api/"
+            ],
+            "title": "kru8"
+        },
+        {
+            "api_urls": [
+                "https://kruttoverto.goulash.tech/api/"
+            ],
+            "title": "kruttoverto"
+        },
+        {
+            "api_urls": [
+                "https://kuhnya.goulash.tech/api/"
+            ],
+            "title": "kuhnya"
+        },
+        {
+            "api_urls": [
+                "https://kuhnyasushi.goulash.tech/api/"
+            ],
+            "title": "kuhnyasushi"
+        },
+        {
+            "api_urls": [
+                "https://kupisushi.goulash.tech/api/"
+            ],
+            "title": "kupisushi"
+        },
+        {
+            "api_urls": [
+                "https://kusai.goulash.tech/api/"
+            ],
+            "title": "Kusai"
+        },
+        {
+            "api_urls": [
+                "https://kusakasushi.goulash.tech/api/"
+            ],
+            "title": "kusakasushi"
+        },
+        {
+            "api_urls": [
+                "https://kushaysushi.goulash.tech/api/"
+            ],
+            "title": "kushaysushi"
+        },
+        {
+            "api_urls": [
+                "https://kusitoria.goulash.tech/api/"
+            ],
+            "title": "kusitoria"
+        },
+        {
+            "api_urls": [
+                "https://kv.goulash.tech/api/"
+            ],
+            "title": "kv"
+        },
+        {
+            "api_urls": [
+                "https://kvkusa.goulash.tech/api/"
+            ],
+            "title": "kvkusa"
+        },
+        {
+            "api_urls": [
+                "https://lafamia.goulash.tech/api/"
+            ],
+            "title": "lafamia"
+        },
+        {
+            "api_urls": [
+                "https://lapizza.goulash.tech/api/"
+            ],
+            "title": "lapizza"
+        },
+        {
+            "api_urls": [
+                "https://learning.goulash.tech/api/"
+            ],
+            "title": "learning"
+        },
+        {
+            "api_urls": [
+                "https://su.lifemart.ae/api/"
+            ],
+            "title": "Lifemart Dubai"
+        },
+        {
+            "api_urls": [
+                "https://su.lifemart.kz/api/"
+            ],
+            "title": "Lifemart KZ"
+        },
+        {
+            "api_urls": [
+                "https://liferolls.goulash.tech/api/"
+            ],
+            "title": "liferolls"
+        },
+        {
+            "api_urls": [
+                "https://lori.goulash.tech/api/"
+            ],
+            "title": "lori"
+        },
+        {
+            "api_urls": [
+                "https://lovkus.goulash.tech/api/"
+            ],
+            "title": "lovkus"
+        },
+        {
+            "api_urls": [
+                "https://lp.goulash.tech/api/"
+            ],
+            "title": "lp"
+        },
+        {
+            "api_urls": [
+                "https://lpopizza.goulash.tech/api/"
+            ],
+            "title": "lpopizza"
+        },
+        {
+            "api_urls": [
+                "https://luckymaki.goulash.tech/api/"
+            ],
+            "title": "luckymaki"
+        },
+        {
+            "api_urls": [
+                "https://lunchhouse.goulash.tech/api/"
+            ],
+            "title": "lunchhouse"
+        },
+        {
+            "api_urls": [
+                "https://makimango.goulash.tech/api/"
+            ],
+            "title": "makimango"
+        },
+        {
+            "api_urls": [
+                "https://malorisa.goulash.tech/api/"
+            ],
+            "title": "malorisa"
+        },
+        {
+            "api_urls": [
+                "https://mamanori.goulash.tech/api/"
+            ],
+            "title": "mamanori"
+        },
+        {
+            "api_urls": [
+                "https://mamanoris.goulash.tech/api/"
+            ],
+            "title": "mamanoris"
+        },
+        {
+            "api_urls": [
+                "https://maneki.goulash.tech/api/"
+            ],
+            "title": "maneki"
+        },
+        {
+            "api_urls": [
+                "https://mangalhouse.goulash.tech/api/"
+            ],
+            "title": "mangalhouse"
+        },
+        {
+            "api_urls": [
+                "https://mangavkus.goulash.tech/api/"
+            ],
+            "title": "mangavkus"
+        },
+        {
+            "api_urls": [
+                "https://mantyshka.goulash.tech/api/"
+            ],
+            "title": "mantyshka"
+        },
+        {
+            "api_urls": [
+                "https://marimogreen.goulash.tech/api/"
+            ],
+            "title": "marimogreen"
+        },
+        {
+            "api_urls": [
+                "https://mashatest.goulash.tech/api/"
+            ],
+            "title": "mashag2"
+        },
+        {
+            "api_urls": [
+                "https://maslenitsa.goulash.tech/api/"
+            ],
+            "title": "maslenitsa"
+        },
+        {
+            "api_urls": [
+                "https://mawdooz.goulash.tech/api/"
+            ],
+            "title": "mawdooz"
+        },
+        {
+            "api_urls": [
+                "https://maxi.goulash.tech/api/"
+            ],
+            "title": "maxi"
+        },
+        {
+            "api_urls": [
+                "https://maxtest.goulash.tech/api/"
+            ],
+            "title": "maxtest"
+        },
+        {
+            "api_urls": [
+                "https://maxxi.goulash.tech/api/"
+            ],
+            "title": "Maxxi"
+        },
+        {
+            "api_urls": [
+                "https://mb.goulash.tech/api/"
+            ],
+            "title": "mb"
+        },
+        {
+            "api_urls": [
+                "https://mesto1pizza.goulash.tech/api/"
+            ],
+            "title": "mesto1pizza"
+        },
+        {
+            "api_urls": [
+                "https://mh.goulash.tech/api/"
+            ],
+            "title": "mh"
+        },
+        {
+            "api_urls": [
+                "https://mintlosos.goulash.tech/api/"
+            ],
+            "title": "mintlosos"
+        },
+        {
+            "api_urls": [
+                "https://missrice.goulash.tech/api/"
+            ],
+            "title": "missrice"
+        },
+        {
+            "api_urls": [
+                "https://mistersushi36.goulash.tech/api/"
+            ],
+            "title": "mistersushi36"
+        },
+        {
+            "api_urls": [
+                "https://moms.goulash.tech/api/"
+            ],
+            "title": "moms"
+        },
+        {
+            "api_urls": [
+                "https://morevdom.goulash.tech/api/"
+            ],
+            "title": "morevdom"
+        },
+        {
+            "api_urls": [
+                "https://murasaky.goulash.tech/api/"
+            ],
+            "title": "murasaky"
+        },
+        {
+            "api_urls": [
+                "https://mydoner.goulash.tech/api/"
+            ],
+            "title": "mydoner"
+        },
+        {
+            "api_urls": [
+                "https://namaki.goulash.tech/api/"
+            ],
+            "title": "namaki"
+        },
+        {
+            "api_urls": [
+                "https://nekruglaya.goulash.tech/api/"
+            ],
+            "title": "nekruglaya"
+        },
+        {
+            "api_urls": [
+                "https://newclientkluster.goulash.tech/api/"
+            ],
+            "title": "newclientkluster"
+        },
+        {
+            "api_urls": [
+                "https://nicksfood.goulash.tech/api/"
+            ],
+            "title": "nicksfood"
+        },
+        {
+            "api_urls": [
+                "https://nikosi.goulash.tech/api/"
+            ],
+            "title": "nikosi"
+        },
+        {
+            "api_urls": [
+                "https://ninja.goulash.tech/api/"
+            ],
+            "title": "ninja"
+        },
+        {
+            "api_urls": [
+                "https://ninjapizza.goulash.tech/api/"
+            ],
+            "title": "Ninja Pizza"
+        },
+        {
+            "api_urls": [
+                "https://nino.goulash.tech/api/"
+            ],
+            "title": "nino"
+        },
+        {
+            "api_urls": [
+                "https://nishityako.goulash.tech/api/"
+            ],
+            "title": "nishityako"
+        },
+        {
+            "api_urls": [
+                "https://nnp.goulash.tech/api/"
+            ],
+            "title": "nnp"
+        },
+        {
+            "api_urls": [
+                "https://noridori.goulash.tech/api/"
+            ],
+            "title": "noridori"
+        },
+        {
+            "api_urls": [
+                "https://np.goulash.tech/api/"
+            ],
+            "title": "np"
+        },
+        {
+            "api_urls": [
+                "https://ogosushi.goulash.tech/api/"
+            ],
+            "title": "ogosushi"
+        },
+        {
+            "api_urls": [
+                "https://ohra.goulash.tech/api/"
+            ],
+            "title": "ohra"
+        },
+        {
+            "api_urls": [
+                "https://okun.goulash.tech/api/"
+            ],
+            "title": "okun"
+        },
+        {
+            "api_urls": [
+                "https://panamasushi.goulash.tech/api/"
+            ],
+            "title": "panamasushi"
+        },
+        {
+            "api_urls": [
+                "https://papa.goulash.tech/api/"
+            ],
+            "title": "papa"
+        },
+        {
+            "api_urls": [
+                "https://parmezan.goulash.tech/api/"
+            ],
+            "title": "parmezan"
+        },
+        {
+            "api_urls": [
+                "https://pasta.goulash.tech/api/"
+            ],
+            "title": "Pasta"
+        },
+        {
+            "api_urls": [
+                "https://phali.goulash.tech/api/"
+            ],
+            "title": "phali"
+        },
+        {
+            "api_urls": [
+                "https://pingvi.goulash.tech/api/"
+            ],
+            "title": "pingvi"
+        },
+        {
+            "api_urls": [
+                "https://pirogionline.goulash.tech/api/"
+            ],
+            "title": "pirogionline"
+        },
+        {
+            "api_urls": [
+                "https://devtest2.eda1.ru/api/"
+            ],
+            "title": "PizzaDev"
+        },
+        {
+            "api_urls": [
+                "https://pizzafiero.goulash.tech/api/"
+            ],
+            "title": "pizzafiero"
+        },
+        {
+            "api_urls": [
+                "https://pizzahouse.goulash.tech/api/"
+            ],
+            "title": "pizzahouse"
+        },
+        {
+            "api_urls": [
+                "https://pizzapro.goulash.tech/api/"
+            ],
+            "title": "pizzapro"
+        },
+        {
+            "api_urls": [
+                "https://pizzaroller.goulash.tech/api/"
+            ],
+            "title": "pizzaroller"
+        },
+        {
+            "api_urls": [
+                "https://pizzarollxl.goulash.tech/api/"
+            ],
+            "title": "pizzarollxl"
+        },
+        {
+            "api_urls": [
+                "https://pizzazp.goulash.tech/api/"
+            ],
+            "title": "pizzazp"
+        },
+        {
+            "api_urls": [
+                "https://pizzello.goulash.tech/api/"
+            ],
+            "title": "pizzello"
+        },
+        {
+            "api_urls": [
+                "https://pkp.goulash.tech/api/"
+            ],
+            "title": "pkp"
+        },
+        {
+            "api_urls": [
+                "https://poddypizza.goulash.tech/api/"
+            ],
+            "title": "poddypizza"
+        },
+        {
+            "api_urls": [
+                "https://poosh.goulash.tech/api/"
+            ],
+            "title": "Poosh"
+        },
+        {
+            "api_urls": [
+                "https://pre-su.eda1.ru/api/"
+            ],
+            "title": "PRE Сушкоф"
+        },
+        {
+            "api_urls": [
+                "https://pre-su.lifemart.ru/api/"
+            ],
+            "title": "pre-su-lifemart"
+        },
+        {
+            "api_urls": [
+                "https://preview.goulash.tech/api/"
+            ],
+            "title": "preview"
+        },
+        {
+            "api_urls": [
+                "https://primeroll.goulash.tech/api/"
+            ],
+            "title": "primeroll"
+        },
+        {
+            "api_urls": [
+                "https://prosushisvoi.goulash.tech/api/"
+            ],
+            "title": "prosushisvoi"
+        },
+        {
+            "api_urls": [
+                "https://ramparoll.goulash.tech/api/"
+            ],
+            "title": "ramparoll"
+        },
+        {
+            "api_urls": [
+                "https://release.goulash.tech/api/"
+            ],
+            "title": "release"
+        },
+        {
+            "api_urls": [
+                "https://riceandfish.goulash.tech/api/"
+            ],
+            "title": "riceandfish"
+        },
+        {
+            "api_urls": [
+                "https://ricepublic.goulash.tech/api/"
+            ],
+            "title": "ricepublic"
+        },
+        {
+            "api_urls": [
+                "https://rockyrolls.goulash.tech/api/"
+            ],
+            "title": "rockyrolls"
+        },
+        {
+            "api_urls": [
+                "https://rolik.goulash.tech/api/"
+            ],
+            "title": "rolik"
+        },
+        {
+            "api_urls": [
+                "https://rollandboil.goulash.tech/api/"
+            ],
+            "title": "rollandboil"
+        },
+        {
+            "api_urls": [
+                "https://rollbig.goulash.tech/api/"
+            ],
+            "title": "rollbig"
+        },
+        {
+            "api_urls": [
+                "https://rollgo.goulash.tech/api/"
+            ],
+            "title": "rollgo"
+        },
+        {
+            "api_urls": [
+                "https://rollings.goulash.tech/api/"
+            ],
+            "title": "rollings"
+        },
+        {
+            "api_urls": [
+                "https://rollissimo.goulash.tech/api/"
+            ],
+            "title": "Rollissimo"
+        },
+        {
+            "api_urls": [
+                "https://rollissimo.goulash.tech/api/"
+            ],
+            "title": "rollissimo"
+        },
+        {
+            "api_urls": [
+                "https://rollking.goulash.tech/api/"
+            ],
+            "title": "rollking"
+        },
+        {
+            "api_urls": [
+                "https://rollkultura.goulash.tech/api/"
+            ],
+            "title": "rollkultura"
+        },
+        {
+            "api_urls": [
+                "https://rubisushi.goulash.tech/api/"
+            ],
+            "title": "rubisushi"
+        },
+        {
+            "api_urls": [
+                "https://sakura.goulash.tech/api/"
+            ],
+            "title": "sakura"
+        },
+        {
+            "api_urls": [
+                "https://sakura38.goulash.tech/api/"
+            ],
+            "title": "sakura38"
+        },
+        {
+            "api_urls": [
+                "https://sansultan.goulash.tech/api/"
+            ],
+            "title": "sansultan"
+        },
+        {
+            "api_urls": [
+                "https://sattar.goulash.tech/api/"
+            ],
+            "title": "sattar"
+        },
+        {
+            "api_urls": [
+                "https://devtest3.eda1.ru/api"
+            ],
+            "title": "SavDev"
+        },
+        {
+            "api_urls": [
+                "https://sayori.goulash.tech/api/"
+            ],
+            "title": "sayori"
+        },
+        {
+            "api_urls": [
+                "https://seazone.goulash.tech/api/"
+            ],
+            "title": "seazone"
+        },
+        {
+            "api_urls": [
+                "https://seberoll.goulash.tech/api/"
+            ],
+            "title": "seberoll"
+        },
+        {
+            "api_urls": [
+                "https://segun.goulash.tech/api/"
+            ],
+            "title": "segun"
+        },
+        {
+            "api_urls": [
+                "https://semga.goulash.tech/api/"
+            ],
+            "title": "semga"
+        },
+        {
+            "api_urls": [
+                "https://sentai74.goulash.tech/api/"
+            ],
+            "title": "sentai74"
+        },
+        {
+            "api_urls": [
+                "https://sestricca.goulash.tech/api/"
+            ],
+            "title": "sestricca"
+        },
+        {
+            "api_urls": [
+                "https://sf.goulash.tech/api/"
+            ],
+            "title": "sf"
+        },
+        {
+            "api_urls": [
+                "https://shavella.goulash.tech/api/"
+            ],
+            "title": "shavella"
+        },
+        {
+            "api_urls": [
+                "https://shmatik.goulash.tech/api/"
+            ],
+            "title": "shmatik"
+        },
+        {
+            "api_urls": [
+                "https://sho.goulash.tech/api/"
+            ],
+            "title": "sho"
+        },
+        {
+            "api_urls": [
+                "https://shosh.goulash.tech/api/"
+            ],
+            "title": "shosh"
+        },
+        {
+            "api_urls": [
+                "https://sibirimbir.goulash.tech/api/"
+            ],
+            "title": "sibirimbir"
+        },
+        {
+            "api_urls": [
+                "https://sidorina.goulash.tech/api/"
+            ],
+            "title": "sidorina"
+        },
+        {
+            "api_urls": [
+                "https://skyfood.goulash.tech/api/"
+            ],
+            "title": "skyfood"
+        },
+        {
+            "api_urls": [
+                "https://soulkitchen.goulash.tech/api/"
+            ],
+            "title": "soulkitchen"
+        },
+        {
+            "api_urls": [
+                "https://soyzo.goulash.tech/api/"
+            ],
+            "title": "soyzo"
+        },
+        {
+            "api_urls": [
+                "https://sp.goulash.tech/api/"
+            ],
+            "title": "sp"
+        },
+        {
+            "api_urls": [
+                "https://space.goulash.tech/api/"
+            ],
+            "title": "space"
+        },
+        {
+            "api_urls": [
+                "https://stable.goulash.tech/api/"
+            ],
+            "title": "stable"
+        },
+        {
+            "api_urls": [
+                "https://starfood.goulash.tech/api/"
+            ],
+            "title": "starfood"
+        },
+        {
+            "api_urls": [
+                "https://stedroll.goulash.tech/api/"
+            ],
+            "title": "stedroll"
+        },
+        {
+            "api_urls": [
+                "https://stime.goulash.tech/api/"
+            ],
+            "title": "stime"
+        },
+        {
+            "api_urls": [
+                "https://stkrd.goulash.tech/api/"
+            ],
+            "title": "stkrd"
+        },
+        {
+            "api_urls": [
+                "https://stromboli.goulash.tech/api/"
+            ],
+            "title": "stromboli"
+        },
+        {
+            "api_urls": [
+                "https://sueda1.goulash.tech/api/"
+            ],
+            "title": "sueda1"
+        },
+        {
+            "api_urls": [
+                "https://sueda1ru.goulash.tech/api/"
+            ],
+            "title": "sueda1ru"
+        },
+        {
+            "api_urls": [
+                "https://sushi.goulash.tech/api/"
+            ],
+            "title": "sushi"
+        },
+        {
+            "api_urls": [
+                "https://sushi23.goulash.tech/api/"
+            ],
+            "title": "sushi23"
+        },
+        {
+            "api_urls": [
+                "https://sushiceh1.goulash.tech/api/"
+            ],
+            "title": "sushiceh1"
+        },
+        {
+            "api_urls": [
+                "https://sushicult.goulash.tech/api/"
+            ],
+            "title": "sushicult"
+        },
+        {
+            "api_urls": [
+                "https://sushidomik.goulash.tech/api/"
+            ],
+            "title": "sushidomik"
+        },
+        {
+            "api_urls": [
+                "https://sushifun.goulash.tech/api/"
+            ],
+            "title": "sushifun"
+        },
+        {
+            "api_urls": [
+                "https://sushigood.goulash.tech/api/"
+            ],
+            "title": "sushigood"
+        },
+        {
+            "api_urls": [
+                "https://sushiholl.goulash.tech/api/"
+            ],
+            "title": "sushiholl"
+        },
+        {
+            "api_urls": [
+                "https://sushijet.goulash.tech/api/"
+            ],
+            "title": "sushijet"
+        },
+        {
+            "api_urls": [
+                "https://sushiking.goulash.tech/api/"
+            ],
+            "title": "sushiking"
+        },
+        {
+            "api_urls": [
+                "https://sushiland.goulash.tech/api/"
+            ],
+            "title": "sushiland"
+        },
+        {
+            "api_urls": [
+                "https://sushilavka.goulash.tech/api/"
+            ],
+            "title": "sushilavka"
+        },
+        {
+            "api_urls": [
+                "https://sushilife.goulash.tech/api/"
+            ],
+            "title": "sushilife"
+        },
+        {
+            "api_urls": [
+                "https://sushilikedz.goulash.tech/api/"
+            ],
+            "title": "sushilikedz"
+        },
+        {
+            "api_urls": [
+                "https://sushimangold.goulash.tech/api/"
+            ],
+            "title": "sushimangold"
+        },
+        {
+            "api_urls": [
+                "https://sushimix.goulash.tech/api/"
+            ],
+            "title": "sushimix"
+        },
+        {
+            "api_urls": [
+                "https://sushinashi.goulash.tech/api/"
+            ],
+            "title": "sushinashi"
+        },
+        {
+            "api_urls": [
+                "https://sushindom.goulash.tech/api/"
+            ],
+            "title": "sushindom"
+        },
+        {
+            "api_urls": [
+                "https://sushinson.goulash.tech/api/"
+            ],
+            "title": "sushinson"
+        },
+        {
+            "api_urls": [
+                "https://sushipoint.goulash.tech/api/"
+            ],
+            "title": "sushipoint"
+        },
+        {
+            "api_urls": [
+                "https://sushipushka.goulash.tech/api/"
+            ],
+            "title": "sushipushka"
+        },
+        {
+            "api_urls": [
+                "https://sushishef.goulash.tech/api/"
+            ],
+            "title": "sushishef"
+        },
+        {
+            "api_urls": [
+                "https://sushistik.goulash.tech/api/"
+            ],
+            "title": "sushistik"
+        },
+        {
+            "api_urls": [
+                "https://sushitime.goulash.tech/api/"
+            ],
+            "title": "sushitime"
+        },
+        {
+            "api_urls": [
+                "https://sushitoribar.goulash.tech/api/"
+            ],
+            "title": "sushitoribar"
+        },
+        {
+            "api_urls": [
+                "https://sushiwin.goulash.tech/api/"
+            ],
+            "title": "sushiwin"
+        },
+        {
+            "api_urls": [
+                "https://sushnyak.goulash.tech/api/"
+            ],
+            "title": "sushnyak"
+        },
+        {
+            "api_urls": [
+                "https://sz.goulash.tech/api/"
+            ],
+            "title": "sz"
+        },
+        {
+            "api_urls": [
+                "https://temaki.goulash.tech/api/"
+            ],
+            "title": "temaki"
+        },
+        {
+            "api_urls": [
+                "https://temptest.goulash.tech/api/"
+            ],
+            "title": "temptest"
+        },
+        {
+            "api_urls": [
+                "https://testdb21.goulash.tech/api/"
+            ],
+            "title": "testdb21"
+        },
+        {
+            "api_urls": [
+                "https://testdb28.goulash.tech/api/"
+            ],
+            "title": "testdb28"
+        },
+        {
+            "api_urls": [
+                "https://thedostavka.goulash.tech/api/"
+            ],
+            "title": "thedostavka"
+        },
+        {
+            "api_urls": [
+                "https://tich.goulash.tech/api/"
+            ],
+            "title": "tich"
+        },
+        {
+            "api_urls": [
+                "https://todoki.goulash.tech/api/"
+            ],
+            "title": "todoki"
+        },
+        {
+            "api_urls": [
+                "https://tokiway.goulash.tech/api/"
+            ],
+            "title": "tokiway"
+        },
+        {
+            "api_urls": [
+                "https://tomatsemga.goulash.tech/api/"
+            ],
+            "title": "tomatsemga"
+        },
+        {
+            "api_urls": [
+                "https://torido.goulash.tech/api/"
+            ],
+            "title": "torido"
+        },
+        {
+            "api_urls": [
+                "https://totoro.goulash.tech/api/"
+            ],
+            "title": "totoro"
+        },
+        {
+            "api_urls": [
+                "https://tsunami.goulash.tech/api/"
+            ],
+            "title": "tsunami"
+        },
+        {
+            "api_urls": [
+                "https://tvoisosed.goulash.tech/api/"
+            ],
+            "title": "tvoisosed"
+        },
+        {
+            "api_urls": [
+                "https://tykwa.goulash.tech/api/"
+            ],
+            "title": "Tykwa"
+        },
+        {
+            "api_urls": [
+                "https://tykwafood.goulash.tech/api/"
+            ],
+            "title": "tykwafood"
+        },
+        {
+            "api_urls": [
+                "https://ukusimenya.goulash.tech/api/"
+            ],
+            "title": "ukusimenya"
+        },
+        {
+            "api_urls": [
+                "https://upsushi.goulash.tech/api/"
+            ],
+            "title": "UP SUSHI"
+        },
+        {
+            "api_urls": [
+                "https://vadimtest.goulash.tech/api/"
+            ],
+            "title": "vadimtest"
+        },
+        {
+            "api_urls": [
+                "https://vdovkinfishi.goulash.tech/api/"
+            ],
+            "title": "vdovkinfishi"
+        },
+        {
+            "api_urls": [
+                "https://verres.goulash.tech/api/"
+            ],
+            "title": "Verres"
+        },
+        {
+            "api_urls": [
+                "https://vesla.goulash.tech/api/"
+            ],
+            "title": "vesla"
+        },
+        {
+            "api_urls": [
+                "https://vilkipalki.goulash.tech/api/"
+            ],
+            "title": "vilkipalki"
+        },
+        {
+            "api_urls": [
+                "https://vipsushi74.goulash.tech/api/"
+            ],
+            "title": "vipsushi74"
+        },
+        {
+            "api_urls": [
+                "https://vkusisusi.goulash.tech/api/"
+            ],
+            "title": "vkusisusi"
+        },
+        {
+            "api_urls": [
+                "https://vkusnonadache.goulash.tech/api/"
+            ],
+            "title": "vkusnonadache"
+        },
+        {
+            "api_urls": [
+                "https://vokorolnaya.goulash.tech/api/"
+            ],
+            "title": "vokorolnaya"
+        },
+        {
+            "api_urls": [
+                "https://vrolyah.goulash.tech/api/"
+            ],
+            "title": "vrolyah"
+        },
+        {
+            "api_urls": [
+                "https://vstest.goulash.tech/api/"
+            ],
+            "title": "vstest"
+        },
+        {
+            "api_urls": [
+                "https://wakidzashi.goulash.tech/api/"
+            ],
+            "title": "wakidzashi"
+        },
+        {
+            "api_urls": [
+                "https://wellfood.goulash.tech/api/"
+            ],
+            "title": "wellfood"
+        },
+        {
+            "api_urls": [
+                "https://woknroll.goulash.tech/api/"
+            ],
+            "title": "wok n roll"
+        },
+        {
+            "api_urls": [
+                "https://yahoosushi.goulash.tech/api/"
+            ],
+            "title": "YahooSushi"
+        },
+        {
+            "api_urls": [
+                "https://yakuzasushi.goulash.tech/api/"
+            ],
+            "title": "yakuzasushi"
+        },
+        {
+            "api_urls": [
+                "https://yamamoto.goulash.tech/api/"
+            ],
+            "title": "yamamoto"
+        },
+        {
+            "api_urls": [
+                "https://yanagiba.goulash.tech/api/"
+            ],
+            "title": "yanagiba"
+        },
+        {
+            "api_urls": [
+                "https://yaponez.goulash.tech/api/"
+            ],
+            "title": "yaponez"
+        },
+        {
+            "api_urls": [
+                "https://yaponika.goulash.tech/api/"
+            ],
+            "title": "yaponika"
+        },
+        {
+            "api_urls": [
+                "https://yaposhka.goulash.tech/api/"
+            ],
+            "title": "yaposhka"
+        },
+        {
+            "api_urls": [
+                "https://yappi.goulash.tech/api/"
+            ],
+            "title": "yappi"
+        },
+        {
+            "api_urls": [
+                "https://yaratam.goulash.tech/api/"
+            ],
+            "title": "yaratam"
+        },
+        {
+            "api_urls": [
+                "https://yo.goulash.tech/api/"
+            ],
+            "title": "Yo"
+        },
+        {
+            "api_urls": [
+                "https://yoji.goulash.tech/api/"
+            ],
+            "title": "yoji"
+        },
+        {
+            "api_urls": [
+                "https://yoyu.goulash.tech/api/"
+            ],
+            "title": "yoyu"
+        },
+        {
+            "api_urls": [
+                "https://zaushi.goulash.tech/api/"
+            ],
+            "title": "zaushi"
+        },
+        {
+            "api_urls": [
+                "https://zaychenko.goulash.tech/api/"
+            ],
+            "title": "zaychenko"
+        },
+        {
+            "api_urls": [
+                "https://zbspizza.goulash.tech/api/"
+            ],
+            "title": "zbspizza"
+        },
+        {
+            "api_urls": [
+                "https://zembitskiy.goulash.tech/api/"
+            ],
+            "title": "Zembitskiy"
+        },
+        {
+            "api_urls": [
+                "https://ishaverma.goulash.tech/api/"
+            ],
+            "title": "Ай Лав Шаверма"
+        },
+        {
+            "api_urls": [
+                "https://akiana.goulash.tech/api/"
+            ],
+            "title": "Акиана"
+        },
+        {
+            "api_urls": [
+                "https://banzai.goulash.tech/api/"
+            ],
+            "title": "Бандзай"
+        },
+        {
+            "api_urls": [
+                "https://vr.goulash.tech/api/"
+            ],
+            "title": "Вкусные Роллы"
+        },
+        {
+            "api_urls": [
+                "https://voltapizza.goulash.tech/api/"
+            ],
+            "title": "Вольта Пицца"
+        },
+        {
+            "api_urls": [
+                "https://uchkuduk.goulash.tech/api/"
+            ],
+            "title": "Дастархан"
+        },
+        {
+            "api_urls": [
+                "https://dikiyroll.goulash.tech/api/"
+            ],
+            "title": "Дикий ролл"
+        },
+        {
+            "api_urls": [
+                "https://release.goulash.tech/api/"
+            ],
+            "title": "Доставка Гуляш"
+        },
+        {
+            "api_urls": [
+                "https://chief.goulash.tech/api/"
+            ],
+            "title": "Доставка еды Шеф"
+        },
+        {
+            "api_urls": [
+                "https://yobidoyobi.goulash.tech/api/"
+            ],
+            "title": "ЕбиДоеби"
+        },
+        {
+            "api_urls": [
+                "https://api.lifemart.ru/api/"
+            ],
+            "title": "Жизньмарт"
+        },
+        {
+            "api_urls": [
+                "https://krut.goulash.tech/api/"
+            ],
+            "title": "Круть"
+        },
+        {
+            "api_urls": [
+                "https://mamanori.goulash.tech/api/"
+            ],
+            "title": "Мама Нори"
+        },
+        {
+            "api_urls": [
+                "https://mexiba.goulash.tech/api/"
+            ],
+            "title": "Мексиканская Бабушка"
+        },
+        {
+            "api_urls": [
+                "https://nemestnye.goulash.tech/api/"
+            ],
+            "title": "Неместные"
+        },
+        {
+            "api_urls": [
+                "https://pandypitera.goulash.tech/api/"
+            ],
+            "title": "Панды Питера"
+        },
+        {
+            "api_urls": [
+                "https://papasushi.goulash.tech/api/"
+            ],
+            "title": "Папа Суши"
+        },
+        {
+            "api_urls": [
+                "https://pizzasan.goulash.tech/api/"
+            ],
+            "title": "Пицца-сан"
+        },
+        {
+            "api_urls": [
+                "https://pizza30cm.goulash.tech/api/"
+            ],
+            "title": "Пицца30см"
+        },
+        {
+            "api_urls": [
+                "https://pb.goulash.tech/api/"
+            ],
+            "title": "Поль Бейкери"
+        },
+        {
+            "api_urls": [
+                "https://pushkasushi.goulash.tech/api/"
+            ],
+            "title": "Пушка Суши"
+        },
+        {
+            "api_urls": [
+                "https://sushimama.goulash.tech/api/"
+            ],
+            "title": "Суши мама"
+        },
+        {
+            "api_urls": [
+                "https://sushimania.goulash.tech/api/"
+            ],
+            "title": "Суши Мания"
+        },
+        {
+            "api_urls": [
+                "https://sushizebra.goulash.tech/api/"
+            ],
+            "title": "Суши от Зебруши"
+        },
+        {
+            "api_urls": [
+                "https://sushiotilyushi.goulash.tech/api/"
+            ],
+            "title": "Суши от Илюши"
+        },
+        {
+            "api_urls": [
+                "https://sushiyummy.goulash.tech/api/"
+            ],
+            "title": "Суши Ями"
+        },
+        {
+            "api_urls": [
+                "https://sushiman.goulash.tech/api/"
+            ],
+            "title": "Сушиман"
+        },
+        {
+            "api_urls": [
+                "https://sushimaniatomsk.goulash.tech/api/"
+            ],
+            "title": "Сушимания Томск"
+        },
+        {
+            "api_urls": [
+                "https://sushimanya.goulash.tech/api/"
+            ],
+            "title": "СушиМанят"
+        },
+        {
+            "api_urls": [
+                "https://sushisell.goulash.tech/api/"
+            ],
+            "title": "Сушиселл"
+        },
+        {
+            "api_urls": [
+                "https://sushiteka.goulash.tech/api/"
+            ],
+            "title": "Сушитека"
+        },
+        {
+            "api_urls": [
+                "https://sushiya.goulash.tech/api/"
+            ],
+            "title": "СушиЯ"
+        },
+        {
+            "api_urls": [
+                "https://api.eda1.ru/api/"
+            ],
+            "title": "Сушкоф"
+        },
+        {
+            "api_urls": [
+                "https://sytnoff.goulash.tech/api/"
+            ],
+            "title": "Сытнофф"
+        },
+        {
+            "api_urls": [
+                "https://sytyikorol.goulash.tech/api/"
+            ],
+            "title": "Сытый король"
+        },
+        {
+            "api_urls": [
+                "https://tandem-sushi.goulash.tech/api/"
+            ],
+            "title": "Тан-Дем Суши"
+        },
+        {
+            "api_urls": [
+                "https://teslaburger.goulash.tech/api/"
+            ],
+            "title": "Тесла-бургер"
+        },
+        {
+            "api_urls": [
+                "https://tommyfish.goulash.tech/api/"
+            ],
+            "title": "Томмифиш"
+        },
+        {
+            "api_urls": [
+                "https://fishka.goulash.tech/api/"
+            ],
+            "title": "Фишка Суши"
+        },
+        {
+            "api_urls": [
+                "https://hanay.goulash.tech/api/"
+            ],
+            "title": "Ханай"
+        },
+        {
+            "api_urls": [
+                "https://chizipizza.goulash.tech/api/"
+            ],
+            "title": "Чизи Пицца"
+        },
+        {
+            "api_urls": [
+                "https://chickenclub.goulash.tech/api/"
+            ],
+            "title": "Чикен Стрит"
+        },
+        {
+            "api_urls": [
+                "https://yaponori.goulash.tech/api/"
+            ],
+            "title": "Японори"
+        },
+        {
+            "api_urls": [
+                "https://yapdomik.goulash.tech/api/"
+            ],
+            "title": "Японский домик"
+        }
+    ],
+    "success": true
+}
