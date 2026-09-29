@@ -1,6 +1,6 @@
 # Клиенты Гуляша — лид-лист
 
-**311 сетей** · сайт 251 · филиалы 197 (**920 точек**) · контакт 249. Адреса всех точек — `branches.csv` (920 точек).
+**311 сетей** · сайт 266 · филиалы 197 (**920 точек**) · контакт 259. Адреса всех точек — `branches.csv`.
 
 | # | Сеть | Сайт | Точек | Города | Телефон | Написать | Платформа |
 |---|---|---|---|---|---|---|---|
@@ -214,9 +214,9 @@
 | 208 | calorieslab | — | — |  | — | — | — |
 | 209 | charco | — | — |  | — | — | — |
 | 210 | chiterpizza | [chiterpizza.ru](https://chiterpizza.ru) | — |  | — | [VK](https://vk.com/chiterpizza) | иная |
-| 211 | cookiedo | — | — |  | — | — | — |
+| 211 | cookiedo | [cookiedo.ru](https://cookiedo.ru) | — |  | — | — | иная |
 | 212 | cxfamily | — | — |  | — | — | — |
-| 213 | Dars | — | — |  | — | — | — |
+| 213 | Dars | [darpizza.com](https://darpizza.com) | — | Краснодар | +7 861 220-55-99 | [IG](https://instagram.com/dar_pizza) | иная |
 | 214 | daypizza | [oskol.daypizza.ru](https://oskol.daypizza.ru) | — |  | +74725444161 | [TG](https://t.me/daypizza_oskol) [VK](https://vk.com/daypizza_oskol) | иная |
 | 215 | dlosos | [derzlos.ru](https://derzlos.ru) | — |  | +7 902 737 97 62 | — | иная |
 | 216 | donantonio | [pizza-don-antonio.ru](https://pizza-don-antonio.ru) | — |  | 84769907932 | — | иная |
@@ -224,42 +224,42 @@
 | 218 | eduard | — | — |  | — | — | — |
 | 219 | EnjoyDoner | [enjoydoner.kz](https://enjoydoner.kz) | — |  | — | — | иная |
 | 220 | eshme | — | — |  | — | — | — |
-| 221 | expressushi | — | — |  | — | — | — |
-| 222 | ezhka | — | — |  | — | — | — |
-| 223 | fishsushi | — | — |  | — | — | — |
+| 221 | expressushi | [express-sushispb.ru](https://express-sushispb.ru) | — | Санкт-Петербург | +7 812 944-42-38 | — | иная |
+| 222 | ezhka | [ежка.рф](https://ежка.рф) | — | Симферополь | — | — | иная |
+| 223 | fishsushi | [fishsushi-tomsk.ru](https://fishsushi-tomsk.ru) | — | Томск | — | — | иная |
 | 224 | food | — | — |  | — | — | — |
 | 225 | gimmerolls | [gimmerolls.ru](https://gimmerolls.ru) | — |  | +7 342 258 33 22 | info@gimmerolls.ru | иная |
 | 226 | gsupport | — | — |  | — | — | — |
-| 227 | hit | — | — |  | — | — | — |
+| 227 | hit | [deliveryhit.ru](https://deliveryhit.ru) | — | Москва | — | — | иная |
 | 228 | hotdogger | [hdogger.com](https://hdogger.com) | — |  | 82247312034 | [VK](https://vk.com/hot_dogger) [IG](https://instagram.com/hotdogger_official) | Гуляш |
 | 229 | igh | — | — |  | — | — | — |
 | 230 | ivanjapan | — | — |  | — | — | — |
-| 231 | kaktus | — | — |  | — | — | — |
+| 231 | kaktus | [cactus-gomel.by](https://cactus-gomel.by) | — | Гомель BY | +375 44 515-30-30 | [TG](https://t.me/cactusgomel) cactusby@mail.ru | иная |
 | 232 | Kangaroo | [kenguru-ru.ru](https://kenguru-ru.ru) | — |  | 79130089130 | [VK](https://vk.com/kengurururu) kenguru.dostavka20@mail.ru | иная |
 | 233 | KIDZI | [kidzi-sushi.ru](https://kidzi-sushi.ru) | — |  | +73422580510 | [TG](https://t.me/kidzi_rollsandpizza) [VK](https://vk.com/kidzisushi) | иная |
-| 234 | kinzazarest | — | — |  | — | — | — |
+| 234 | kinzazarest | [kinzatver.ru](https://kinzatver.ru) | — | Тверь | +7 910 069-99-09 | — | иная |
 | 235 | Kusai | [kusai-roll.ru](https://kusai-roll.ru) | — |  | 83753846268 | [TG](https://t.me/kusai_roll) [WA](https://wa.me/89181130130) | иная |
 | 236 | lafamia | [lafamia.ru](https://lafamia.ru) | — |  | 11234567890 | [VK](https://vk.com/lafamia.perm) lafamiastuff@gmail.com | иная |
 | 237 | lapizza | [la-pizza.pro](https://la-pizza.pro) | — |  | +79918989888 | [VK](https://vk.com/lapizzavrn) | иная |
 | 238 | Lifemart KZ | [su.lifemart.kz](https://su.lifemart.kz) | — |  | — | — | Гуляш |
-| 239 | lpopizza | — | — |  | — | — | — |
+| 239 | lpopizza | [lpizza.ru](https://lpizza.ru) | — | Липецк | — | — | иная |
 | 240 | lunchhouse | [lunchhouse-46.orgs.biz](http://lunchhouse-46.orgs.biz) | — |  | +79038778595 | [WA](https://wa.me/79038778595) [VK](https://vk.com/topic) | иная |
 | 241 | mangalhouse | [mangalhouse.moscow](https://mangalhouse.moscow) | — |  | +74991103011 | [VK](https://vk.com/mangalhouse.moscow) [IG](https://instagram.com/mangalhauz) | иная |
-| 242 | mantyshka | — | — |  | — | — | — |
+| 242 | mantyshka | — | — | Санкт-Петербург | +7 931 392-35-70 | — | — |
 | 243 | maslenitsa | — | — |  | — | — | — |
 | 244 | mawdooz | — | — |  | — | — | — |
 | 245 | mintlosos | [mintlosos.ru](https://mintlosos.ru) | — |  | +78612400082 | [TG](https://t.me/mintlosos) | Гуляш |
 | 246 | missrice | — | — |  | — | — | — |
-| 247 | nino | — | — |  | — | — | — |
-| 248 | nishityako | — | — |  | — | — | — |
+| 247 | nino | [ninosochi.com](https://ninosochi.com) | — | Сочи | — | — | иная |
+| 248 | nishityako | — | — | Камышин | +7 999 345-66-66 | [IG](https://instagram.com/nishityako.kam) | — |
 | 249 | nnp | — | — |  | — | — | — |
 | 250 | noridori | [noridori.ru](https://noridori.ru) | — |  | +7 423 273 34 43 | [VK](https://vk.com/noridorivrn) noriuss125@mail.ru | Гуляш |
 | 251 | Pasta | [pastaipizza.ru](https://pastaipizza.ru) | — |  | 73532540905 | [VK](https://vk.com/pasta_i_pizza) | иная |
-| 252 | phali | — | — |  | — | — | — |
+| 252 | phali | [dostavka.phali-hinkali.ru](https://dostavka.phali-hinkali.ru) | — | Санкт-Петербург | +7 812 409-60-88 | [IG](https://instagram.com/phali_hinkali) site@phali-hinkali.ru | иная |
 | 253 | pizzapro | [pizzapro.ru](https://pizzapro.ru) | — |  | +79093748939 | [VK](https://vk.com/propizza) | иная |
 | 254 | pizzarollxl | — | — |  | — | — | — |
 | 255 | pkp | — | — |  | — | — | — |
-| 256 | poddypizza | — | — |  | — | — | — |
+| 256 | poddypizza | [poddipizza.ru](https://poddipizza.ru) | — | Челябинск | +7 351 214-25-04 | [TG](https://t.me/poddipizza) [VK](https://vk.com/poddipizza) | иная |
 | 257 | ramparoll | — | — |  | — | — | — |
 | 258 | rockyrolls | [rockyrolls.ru](https://rockyrolls.ru) | — |  | 81743680285 | [TG](https://t.me/rockyrolls_yar) [VK](https://vk.com/rockyrolls) | Гуляш |
 | 259 | rollandboil | — | — |  | — | — | — |
@@ -268,7 +268,7 @@
 | 262 | sakura | [sushi-sakura.ru](https://sushi-sakura.ru) | — |  | +79872385757 | [TG](https://t.me/foodninja_auth_bot) [VK](https://vk.com/avtosushi.sakura) | иная |
 | 263 | sakura38 | — | — |  | — | — | — |
 | 264 | sattar | — | — |  | — | — | — |
-| 265 | sf | — | — |  | — | — | — |
+| 265 | sf | [shaurma-food.kz](https://shaurma-food.kz) | — | Астана KZ | — | — | иная |
 | 266 | shavella | [shavella.orgs.biz](https://shavella.orgs.biz) | — |  | +79003647674 | [WA](https://wa.me/79003647674) | иная |
 | 267 | sho | — | — |  | — | — | — |
 | 268 | shosh | — | — |  | — | — | — |
@@ -293,17 +293,17 @@
 | 287 | wakidzashi | — | — |  | — | — | — |
 | 288 | YahooSushi | [яху-суши.рф](https://яху-суши.рф) | — |  | +7 8352 29 29 85 | — | иная |
 | 289 | yaratam | — | — |  | — | — | — |
-| 290 | Yo | — | — |  | — | — | — |
+| 290 | Yo | [yo.spb.ru](https://yo.spb.ru) | — | Санкт-Петербург | +7 812 270-77-20 | — | иная |
 | 291 | yoji | [yoji.moscow](https://yoji.moscow) | — |  | 81327518435 | [TG](https://t.me/yojihelp_bot) [VK](https://vk.com/yoji.moscow) | иная |
 | 292 | zaychenko | — | — |  | — | — | — |
 | 293 | zbspizza | [zbspizza.ru](https://zbspizza.ru) | — |  | +7 383 388 49 99 | zbspizza@yandex.ru | иная |
 | 294 | Zembitskiy | — | — |  | — | — | — |
-| 295 | Ай Лав Шаверма | — | — |  | +7 912 244 18 48 | — | — |
+| 295 | Ай Лав Шаверма | — | — | Екатеринбург | +7 912 244 18 48 | — | — |
 | 296 | Бандзай | [banzai-sushi.ru](https://banzai-sushi.ru) | — |  | +79217114013 | [VK](https://vk.com/rtrg) | иная |
 | 297 | Вкусные Роллы | [vkusnyesushi.moscow](https://vkusnyesushi.moscow) | — |  | 84991134343 | [VK](https://vk.com/public144473257) vs.sup@yandex.ru | иная |
 | 298 | Дастархан | [dastarkhan24.kz](https://dastarkhan24.kz) | — |  | +7 702 313 1221 | info@dastarkhan24.kz | Гуляш |
 | 299 | Доставка Гуляш | — | — |  | — | — | — |
-| 300 | ЕбиДоеби | — | — |  | — | — | — |
+| 300 | ЕбиДоеби | [yobidoyobi.ru](https://yobidoyobi.ru) | — | федеральная | +7 800 333 33 23 | — | иная |
 | 301 | Жизньмарт | [gizn.ru](https://gizn.ru) | — |  | +7 800 600 03 15 | feedback@lifemart.ru | Гуляш |
 | 302 | Панды Питера | [pandy-pitera.ru](https://pandy-pitera.ru) | — |  | +7 995 234 27 07 | [IG](https://instagram.com/petropanda) | иная |
 | 303 | Пицца30см | — | — |  | — | — | — |
