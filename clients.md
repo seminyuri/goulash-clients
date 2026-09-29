@@ -1,6 +1,6 @@
 # Клиенты Гуляша — лид-лист
 
-**311 сетей** · сайт 266 · филиалы 197 (**920 точек**) · контакт 259. Адреса всех точек — `branches.csv`.
+**307 сетей** · сайт 266 · контакт 260 · **920 точек** (адреса — `branches.csv`).
 
 | # | Сеть | Сайт | Точек | Города | Телефон | Написать | Платформа |
 |---|---|---|---|---|---|---|---|
@@ -229,89 +229,85 @@
 | 223 | fishsushi | [fishsushi-tomsk.ru](https://fishsushi-tomsk.ru) | — | Томск | — | — | иная |
 | 224 | food | — | — |  | — | — | — |
 | 225 | gimmerolls | [gimmerolls.ru](https://gimmerolls.ru) | — |  | +7 342 258 33 22 | info@gimmerolls.ru | иная |
-| 226 | gsupport | — | — |  | — | — | — |
-| 227 | hit | [deliveryhit.ru](https://deliveryhit.ru) | — | Москва | — | — | иная |
-| 228 | hotdogger | [hdogger.com](https://hdogger.com) | — |  | 82247312034 | [VK](https://vk.com/hot_dogger) [IG](https://instagram.com/hotdogger_official) | Гуляш |
-| 229 | igh | — | — |  | — | — | — |
-| 230 | ivanjapan | — | — |  | — | — | — |
-| 231 | kaktus | [cactus-gomel.by](https://cactus-gomel.by) | — | Гомель BY | +375 44 515-30-30 | [TG](https://t.me/cactusgomel) cactusby@mail.ru | иная |
-| 232 | Kangaroo | [kenguru-ru.ru](https://kenguru-ru.ru) | — |  | 79130089130 | [VK](https://vk.com/kengurururu) kenguru.dostavka20@mail.ru | иная |
-| 233 | KIDZI | [kidzi-sushi.ru](https://kidzi-sushi.ru) | — |  | +73422580510 | [TG](https://t.me/kidzi_rollsandpizza) [VK](https://vk.com/kidzisushi) | иная |
-| 234 | kinzazarest | [kinzatver.ru](https://kinzatver.ru) | — | Тверь | +7 910 069-99-09 | — | иная |
-| 235 | Kusai | [kusai-roll.ru](https://kusai-roll.ru) | — |  | 83753846268 | [TG](https://t.me/kusai_roll) [WA](https://wa.me/89181130130) | иная |
-| 236 | lafamia | [lafamia.ru](https://lafamia.ru) | — |  | 11234567890 | [VK](https://vk.com/lafamia.perm) lafamiastuff@gmail.com | иная |
-| 237 | lapizza | [la-pizza.pro](https://la-pizza.pro) | — |  | +79918989888 | [VK](https://vk.com/lapizzavrn) | иная |
-| 238 | Lifemart KZ | [su.lifemart.kz](https://su.lifemart.kz) | — |  | — | — | Гуляш |
-| 239 | lpopizza | [lpizza.ru](https://lpizza.ru) | — | Липецк | — | — | иная |
-| 240 | lunchhouse | [lunchhouse-46.orgs.biz](http://lunchhouse-46.orgs.biz) | — |  | +79038778595 | [WA](https://wa.me/79038778595) [VK](https://vk.com/topic) | иная |
-| 241 | mangalhouse | [mangalhouse.moscow](https://mangalhouse.moscow) | — |  | +74991103011 | [VK](https://vk.com/mangalhouse.moscow) [IG](https://instagram.com/mangalhauz) | иная |
-| 242 | mantyshka | — | — | Санкт-Петербург | +7 931 392-35-70 | — | — |
-| 243 | maslenitsa | — | — |  | — | — | — |
-| 244 | mawdooz | — | — |  | — | — | — |
-| 245 | mintlosos | [mintlosos.ru](https://mintlosos.ru) | — |  | +78612400082 | [TG](https://t.me/mintlosos) | Гуляш |
-| 246 | missrice | — | — |  | — | — | — |
-| 247 | nino | [ninosochi.com](https://ninosochi.com) | — | Сочи | — | — | иная |
-| 248 | nishityako | — | — | Камышин | +7 999 345-66-66 | [IG](https://instagram.com/nishityako.kam) | — |
-| 249 | nnp | — | — |  | — | — | — |
-| 250 | noridori | [noridori.ru](https://noridori.ru) | — |  | +7 423 273 34 43 | [VK](https://vk.com/noridorivrn) noriuss125@mail.ru | Гуляш |
-| 251 | Pasta | [pastaipizza.ru](https://pastaipizza.ru) | — |  | 73532540905 | [VK](https://vk.com/pasta_i_pizza) | иная |
-| 252 | phali | [dostavka.phali-hinkali.ru](https://dostavka.phali-hinkali.ru) | — | Санкт-Петербург | +7 812 409-60-88 | [IG](https://instagram.com/phali_hinkali) site@phali-hinkali.ru | иная |
-| 253 | pizzapro | [pizzapro.ru](https://pizzapro.ru) | — |  | +79093748939 | [VK](https://vk.com/propizza) | иная |
-| 254 | pizzarollxl | — | — |  | — | — | — |
-| 255 | pkp | — | — |  | — | — | — |
-| 256 | poddypizza | [poddipizza.ru](https://poddipizza.ru) | — | Челябинск | +7 351 214-25-04 | [TG](https://t.me/poddipizza) [VK](https://vk.com/poddipizza) | иная |
-| 257 | ramparoll | — | — |  | — | — | — |
-| 258 | rockyrolls | [rockyrolls.ru](https://rockyrolls.ru) | — |  | 81743680285 | [TG](https://t.me/rockyrolls_yar) [VK](https://vk.com/rockyrolls) | Гуляш |
-| 259 | rollandboil | — | — |  | — | — | — |
-| 260 | rollgo | — | — |  | — | — | — |
-| 261 | rollings | [rollings-sushi.ru](https://rollings-sushi.ru) | — |  | — | — | иная |
-| 262 | sakura | [sushi-sakura.ru](https://sushi-sakura.ru) | — |  | +79872385757 | [TG](https://t.me/foodninja_auth_bot) [VK](https://vk.com/avtosushi.sakura) | иная |
-| 263 | sakura38 | — | — |  | — | — | — |
-| 264 | sattar | — | — |  | — | — | — |
-| 265 | sf | [shaurma-food.kz](https://shaurma-food.kz) | — | Астана KZ | — | — | иная |
-| 266 | shavella | [shavella.orgs.biz](https://shavella.orgs.biz) | — |  | +79003647674 | [WA](https://wa.me/79003647674) | иная |
-| 267 | sho | — | — |  | — | — | — |
-| 268 | shosh | — | — |  | — | — | — |
-| 269 | sidorina | — | — |  | — | — | — |
-| 270 | soulkitchen | [skburger.orgs.biz](https://skburger.orgs.biz) | — |  | +78312912242 | [TG](https://t.me/notificationsSK_bot) [WA](https://wa.me/78312912242) [VK](https://vk.com/id837656794) | иная |
-| 271 | sushi23 | [sushi23.ru](https://sushi23.ru) | — |  | 78612176817 | [VK](https://vk.com/public204638651) ka6an8692@gmail.com | иная |
-| 272 | sushiceh1 | — | — |  | — | — | — |
-| 273 | sushigood | [sushigood.ru](https://sushigood.ru) | — |  | +79310096467 | [TG](https://t.me/sushigood_ru) [VK](https://vk.com/sushigood_ru) | иная |
-| 274 | sushijet | [sushi-jet.ru](https://sushi-jet.ru) | — |  | +7 3822 990191 | sushijet@yandex.ru | иная |
-| 275 | sushiking | [sushiking.dlvry.ru](https://sushiking.dlvry.ru) | — |  | +7 914 703 34 43 | — | иная |
-| 276 | sushiland | [landsushi.ru](https://landsushi.ru) | — |  | +79054105757 | [VK](https://vk.com/landsushi) [IG](https://instagram.com/_sushiland_) | иная |
-| 277 | sushipoint | [izhpoint.orgs.biz](https://izhpoint.orgs.biz) | — |  | +73412477171 | [WA](https://wa.me/73412477171) | иная |
-| 278 | sushiwin | — | — |  | — | — | — |
-| 279 | sz | — | — |  | — | — | — |
-| 280 | testdb21 | — | — |  | — | — | — |
-| 281 | testdb28 | — | — |  | — | — | — |
-| 282 | thedostavka | — | — |  | — | — | — |
-| 283 | vdovkinfishi | — | — |  | — | — | — |
-| 284 | vesla | [сушивесла.рф](https://сушивесла.рф) | — |  | +7 800 550 30 30 | [TG](https://t.me/sushivesla) | иная |
-| 285 | vipsushi74 | [vipsushi74.ru](http://vipsushi74.ru) | — |  | +79624885107 | [VK](https://vk.com/vipsushi74) | иная |
-| 286 | vkusnonadache | [vkusnyesushi.ru](https://vkusnyesushi.ru) | — |  | — | [VK](https://vk.com/club54288406) zakaz@vkusnyesushi.ru | иная |
-| 287 | wakidzashi | — | — |  | — | — | — |
-| 288 | YahooSushi | [яху-суши.рф](https://яху-суши.рф) | — |  | +7 8352 29 29 85 | — | иная |
-| 289 | yaratam | — | — |  | — | — | — |
-| 290 | Yo | [yo.spb.ru](https://yo.spb.ru) | — | Санкт-Петербург | +7 812 270-77-20 | — | иная |
-| 291 | yoji | [yoji.moscow](https://yoji.moscow) | — |  | 81327518435 | [TG](https://t.me/yojihelp_bot) [VK](https://vk.com/yoji.moscow) | иная |
-| 292 | zaychenko | — | — |  | — | — | — |
-| 293 | zbspizza | [zbspizza.ru](https://zbspizza.ru) | — |  | +7 383 388 49 99 | zbspizza@yandex.ru | иная |
-| 294 | Zembitskiy | — | — |  | — | — | — |
-| 295 | Ай Лав Шаверма | — | — | Екатеринбург | +7 912 244 18 48 | — | — |
-| 296 | Бандзай | [banzai-sushi.ru](https://banzai-sushi.ru) | — |  | +79217114013 | [VK](https://vk.com/rtrg) | иная |
-| 297 | Вкусные Роллы | [vkusnyesushi.moscow](https://vkusnyesushi.moscow) | — |  | 84991134343 | [VK](https://vk.com/public144473257) vs.sup@yandex.ru | иная |
-| 298 | Дастархан | [dastarkhan24.kz](https://dastarkhan24.kz) | — |  | +7 702 313 1221 | info@dastarkhan24.kz | Гуляш |
-| 299 | Доставка Гуляш | — | — |  | — | — | — |
-| 300 | ЕбиДоеби | [yobidoyobi.ru](https://yobidoyobi.ru) | — | федеральная | +7 800 333 33 23 | — | иная |
-| 301 | Жизньмарт | [gizn.ru](https://gizn.ru) | — |  | +7 800 600 03 15 | feedback@lifemart.ru | Гуляш |
-| 302 | Панды Питера | [pandy-pitera.ru](https://pandy-pitera.ru) | — |  | +7 995 234 27 07 | [IG](https://instagram.com/petropanda) | иная |
-| 303 | Пицца30см | — | — |  | — | — | — |
-| 304 | Суши от Зебруши | [zebraeda.com](https://zebraeda.com) | — |  | +73833832118 | — | иная |
-| 305 | Сушимания Томск | [sushimania-tomsk.ru](https://sushimania-tomsk.ru) | — |  | 86133383536 | — | Гуляш |
-| 306 | Сушкоф | [sushkof.ru](https://sushkof.ru) | — |  | +73433734444 | [VK](https://vk.com/sushkof_pizza) | Гуляш |
-| 307 | Тесла-бургер | [teslaburger.ru](https://teslaburger.ru) | — |  | 86640309189 | — | Гуляш |
-| 308 | Фишка Суши | [fishka-sushi.ru](https://fishka-sushi.ru) | — |  | +7 4722 21 83 05 | — | иная |
-| 309 | Чизи Пицца | [pizzacheez.ru](https://pizzacheez.ru) | — |  | +73912551155 | [VK](https://vk.com/pizzacheez) cheezceo@gmail.com | иная |
-| 310 | Чикен Стрит | — | — |  | — | — | — |
-| 311 | Японори | [yaponori-38.orgs.biz](https://yaponori-38.orgs.biz) | — |  | +73952480424 | [WA](https://wa.me/73952480424) [VK](https://vk.com/id142963910) | иная |
+| 226 | hit | [deliveryhit.ru](https://deliveryhit.ru) | — | Москва | — | — | иная |
+| 227 | hotdogger | [hdogger.com](https://hdogger.com) | — |  | 82247312034 | [VK](https://vk.com/hot_dogger) [IG](https://instagram.com/hotdogger_official) | Гуляш |
+| 228 | igh | — | — |  | — | — | — |
+| 229 | ivanjapan | — | — |  | — | — | — |
+| 230 | kaktus | [cactus-gomel.by](https://cactus-gomel.by) | — | Гомель BY | +375 44 515-30-30 | [TG](https://t.me/cactusgomel) cactusby@mail.ru | иная |
+| 231 | Kangaroo | [kenguru-ru.ru](https://kenguru-ru.ru) | — |  | 79130089130 | [VK](https://vk.com/kengurururu) kenguru.dostavka20@mail.ru | иная |
+| 232 | KIDZI | [kidzi-sushi.ru](https://kidzi-sushi.ru) | — |  | +73422580510 | [TG](https://t.me/kidzi_rollsandpizza) [VK](https://vk.com/kidzisushi) | иная |
+| 233 | kinzazarest | [kinzatver.ru](https://kinzatver.ru) | — | Тверь | +7 910 069-99-09 | — | иная |
+| 234 | Kusai | [kusai-roll.ru](https://kusai-roll.ru) | — |  | 83753846268 | [TG](https://t.me/kusai_roll) [WA](https://wa.me/89181130130) | иная |
+| 235 | lafamia | [lafamia.ru](https://lafamia.ru) | — |  | 11234567890 | [VK](https://vk.com/lafamia.perm) lafamiastuff@gmail.com | иная |
+| 236 | lapizza | [la-pizza.pro](https://la-pizza.pro) | — |  | +79918989888 | [VK](https://vk.com/lapizzavrn) | иная |
+| 237 | Lifemart KZ | [su.lifemart.kz](https://su.lifemart.kz) | — |  | — | — | Гуляш |
+| 238 | lpopizza | [lpizza.ru](https://lpizza.ru) | — | Липецк | 83877870302 | — | иная |
+| 239 | lunchhouse | [lunchhouse-46.orgs.biz](http://lunchhouse-46.orgs.biz) | — |  | +79038778595 | [WA](https://wa.me/79038778595) [VK](https://vk.com/topic) | иная |
+| 240 | mangalhouse | [mangalhouse.moscow](https://mangalhouse.moscow) | — |  | +74991103011 | [VK](https://vk.com/mangalhouse.moscow) [IG](https://instagram.com/mangalhauz) | иная |
+| 241 | mantyshka | — | — | Санкт-Петербург | +7 931 392-35-70 | — | — |
+| 242 | maslenitsa | — | — |  | — | — | — |
+| 243 | mawdooz | — | — |  | — | — | — |
+| 244 | mintlosos | [mintlosos.ru](https://mintlosos.ru) | — |  | +78612400082 | [TG](https://t.me/mintlosos) | Гуляш |
+| 245 | missrice | — | — |  | — | — | — |
+| 246 | nino | [ninosochi.com](https://ninosochi.com) | — | Сочи | — | — | иная |
+| 247 | nishityako | — | — | Камышин | +7 999 345-66-66 | [IG](https://instagram.com/nishityako.kam) | — |
+| 248 | nnp | — | — |  | — | — | — |
+| 249 | noridori | [noridori.ru](https://noridori.ru) | — |  | +7 423 273 34 43 | [VK](https://vk.com/noridorivrn) noriuss125@mail.ru | Гуляш |
+| 250 | Pasta | [pastaipizza.ru](https://pastaipizza.ru) | — |  | 73532540905 | [VK](https://vk.com/pasta_i_pizza) | иная |
+| 251 | phali | [dostavka.phali-hinkali.ru](https://dostavka.phali-hinkali.ru) | — | Санкт-Петербург | +7 812 409-60-88 | [IG](https://instagram.com/phali_hinkali) site@phali-hinkali.ru | иная |
+| 252 | pizzapro | [pizzapro.ru](https://pizzapro.ru) | — |  | +79093748939 | [VK](https://vk.com/propizza) | иная |
+| 253 | pizzarollxl | — | — |  | — | — | — |
+| 254 | pkp | — | — |  | — | — | — |
+| 255 | poddypizza | [poddipizza.ru](https://poddipizza.ru) | — | Челябинск | +7 351 214-25-04 | [TG](https://t.me/poddipizza) [VK](https://vk.com/poddipizza) | иная |
+| 256 | ramparoll | — | — |  | — | — | — |
+| 257 | rockyrolls | [rockyrolls.ru](https://rockyrolls.ru) | — |  | 81743680285 | [TG](https://t.me/rockyrolls_yar) [VK](https://vk.com/rockyrolls) | Гуляш |
+| 258 | rollandboil | — | — |  | — | — | — |
+| 259 | rollgo | — | — |  | — | — | — |
+| 260 | rollings | [rollings-sushi.ru](https://rollings-sushi.ru) | — |  | — | — | иная |
+| 261 | sakura | [sushi-sakura.ru](https://sushi-sakura.ru) | — |  | +79872385757 | [TG](https://t.me/foodninja_auth_bot) [VK](https://vk.com/avtosushi.sakura) | иная |
+| 262 | sakura38 | — | — |  | — | — | — |
+| 263 | sattar | — | — |  | — | — | — |
+| 264 | sf | [shaurma-food.kz](https://shaurma-food.kz) | — | Астана KZ | — | — | иная |
+| 265 | shavella | [shavella.orgs.biz](https://shavella.orgs.biz) | — |  | +79003647674 | [WA](https://wa.me/79003647674) | иная |
+| 266 | sho | — | — |  | — | — | — |
+| 267 | shosh | — | — |  | — | — | — |
+| 268 | sidorina | — | — |  | — | — | — |
+| 269 | soulkitchen | [skburger.orgs.biz](https://skburger.orgs.biz) | — |  | +78312912242 | [TG](https://t.me/notificationsSK_bot) [WA](https://wa.me/78312912242) [VK](https://vk.com/id837656794) | иная |
+| 270 | sushi23 | [sushi23.ru](https://sushi23.ru) | — |  | 78612176817 | [VK](https://vk.com/public204638651) ka6an8692@gmail.com | иная |
+| 271 | sushiceh1 | — | — |  | — | — | — |
+| 272 | sushigood | [sushigood.ru](https://sushigood.ru) | — |  | +79310096467 | [TG](https://t.me/sushigood_ru) [VK](https://vk.com/sushigood_ru) | иная |
+| 273 | sushijet | [sushi-jet.ru](https://sushi-jet.ru) | — |  | +7 3822 990191 | sushijet@yandex.ru | иная |
+| 274 | sushiking | [sushiking.dlvry.ru](https://sushiking.dlvry.ru) | — |  | +7 914 703 34 43 | — | иная |
+| 275 | sushiland | [landsushi.ru](https://landsushi.ru) | — |  | +79054105757 | [VK](https://vk.com/landsushi) [IG](https://instagram.com/_sushiland_) | иная |
+| 276 | sushipoint | [izhpoint.orgs.biz](https://izhpoint.orgs.biz) | — |  | +73412477171 | [WA](https://wa.me/73412477171) | иная |
+| 277 | sushiwin | — | — |  | — | — | — |
+| 278 | sz | — | — |  | — | — | — |
+| 279 | thedostavka | — | — |  | — | — | — |
+| 280 | vdovkinfishi | — | — |  | — | — | — |
+| 281 | vesla | [сушивесла.рф](https://сушивесла.рф) | — |  | +7 800 550 30 30 | [TG](https://t.me/sushivesla) | иная |
+| 282 | vipsushi74 | [vipsushi74.ru](http://vipsushi74.ru) | — |  | +79624885107 | [VK](https://vk.com/vipsushi74) | иная |
+| 283 | vkusnonadache | [vkusnyesushi.ru](https://vkusnyesushi.ru) | — |  | — | [VK](https://vk.com/club54288406) zakaz@vkusnyesushi.ru | иная |
+| 284 | wakidzashi | — | — |  | — | — | — |
+| 285 | YahooSushi | [яху-суши.рф](https://яху-суши.рф) | — |  | +7 8352 29 29 85 | — | иная |
+| 286 | yaratam | — | — |  | — | — | — |
+| 287 | Yo | [yo.spb.ru](https://yo.spb.ru) | — | Санкт-Петербург | +7 812 270-77-20 | — | иная |
+| 288 | yoji | [yoji.moscow](https://yoji.moscow) | — |  | 81327518435 | [TG](https://t.me/yojihelp_bot) [VK](https://vk.com/yoji.moscow) | иная |
+| 289 | zaychenko | — | — |  | — | — | — |
+| 290 | zbspizza | [zbspizza.ru](https://zbspizza.ru) | — |  | +7 383 388 49 99 | zbspizza@yandex.ru | иная |
+| 291 | Zembitskiy | — | — |  | — | — | — |
+| 292 | Ай Лав Шаверма | — | — | Екатеринбург | +7 912 244 18 48 | — | — |
+| 293 | Бандзай | [banzai-sushi.ru](https://banzai-sushi.ru) | — |  | +79217114013 | [VK](https://vk.com/rtrg) | иная |
+| 294 | Вкусные Роллы | [vkusnyesushi.moscow](https://vkusnyesushi.moscow) | — |  | 84991134343 | [VK](https://vk.com/public144473257) vs.sup@yandex.ru | иная |
+| 295 | Дастархан | [dastarkhan24.kz](https://dastarkhan24.kz) | — |  | +7 702 313 1221 | info@dastarkhan24.kz | Гуляш |
+| 296 | ЕбиДоеби | [yobidoyobi.ru](https://yobidoyobi.ru) | — | федеральная | +7 800 333 33 23 | — | иная |
+| 297 | Жизньмарт | [gizn.ru](https://gizn.ru) | — |  | +7 800 600 03 15 | feedback@lifemart.ru | Гуляш |
+| 298 | Панды Питера | [pandy-pitera.ru](https://pandy-pitera.ru) | — |  | +7 995 234 27 07 | [IG](https://instagram.com/petropanda) | иная |
+| 299 | Пицца30см | — | — |  | — | — | — |
+| 300 | Суши от Зебруши | [zebraeda.com](https://zebraeda.com) | — |  | +73833832118 | — | иная |
+| 301 | Сушимания Томск | [sushimania-tomsk.ru](https://sushimania-tomsk.ru) | — |  | 86133383536 | — | Гуляш |
+| 302 | Сушкоф | [sushkof.ru](https://sushkof.ru) | — |  | +73433734444 | [VK](https://vk.com/sushkof_pizza) | Гуляш |
+| 303 | Тесла-бургер | [teslaburger.ru](https://teslaburger.ru) | — |  | 86640309189 | — | Гуляш |
+| 304 | Фишка Суши | [fishka-sushi.ru](https://fishka-sushi.ru) | — |  | +7 4722 21 83 05 | — | иная |
+| 305 | Чизи Пицца | [pizzacheez.ru](https://pizzacheez.ru) | — |  | +73912551155 | [VK](https://vk.com/pizzacheez) cheezceo@gmail.com | иная |
+| 306 | Чикен Стрит | — | — |  | — | — | — |
+| 307 | Японори | [yaponori-38.orgs.biz](https://yaponori-38.orgs.biz) | — |  | +73952480424 | [WA](https://wa.me/73952480424) [VK](https://vk.com/id142963910) | иная |
